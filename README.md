@@ -48,7 +48,7 @@ After cleaning and analyzing the data with SQL, I used Power BI to create an int
 - **Product Category & Store Performance Insights**
 - **Customer Purchase Behavior & Order Trends**
 
-
+![DASHBOARD](https://github.com/Parshwa1504/Coffee-Shop-Sales-Analysis/blob/main/Coffee%20Sales%20Analysis%20Dashboard.png)
 
 ## 🔹 Key Achievements & Resume Points
 
